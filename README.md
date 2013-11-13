@@ -4,7 +4,7 @@ export lua 5.2.2 string library pattern matching code.
 
 http://www.lua.org
 
-use premake4 generate Makfile or project
+use premake4 generate Makefile or project
 
 premake4 from here:
 
