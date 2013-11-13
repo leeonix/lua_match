@@ -10,3 +10,10 @@ premake4 from here:
 
 http://industriousone.com/premake
 
+## BUILDING
+
+```bash
+premake4 gmake
+cd build
+make
+```
